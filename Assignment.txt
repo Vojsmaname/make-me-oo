@@ -1,0 +1,7 @@
+Changes made to the code :
+                            * Encapsulated point class with its behaviours: Distance to another point
+                                                                          Direction to another point
+
+                            * Renamed Names of parameters and methods to make the code more readable
+
+                            * Commented the Distance and DirectionCalculator
